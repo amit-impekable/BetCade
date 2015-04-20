@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mobile/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/media/56F0B1E2605EC16D/MobileProjects CS NEW/BetCade/20 April/BetCade/app/build/intermediates/pre-dexed/debug/gson-2.3.1-1d4ed9e6698804a6944ca049664a0cd16f6568bd.jar" />
+    </item>
+    <item
+        jar="/home/mobile/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/media/56F0B1E2605EC16D/MobileProjects CS NEW/BetCade/20 April/BetCade/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-a29c2782703746db7b76aee11ef0fa4288ca4c2f.jar" />
+    </item>
+    <item
+        jar="/media/56F0B1E2605EC16D/MobileProjects CS NEW/BetCade/20 April/BetCade/app/build/intermediates/exploded-aar/de.keyboardsurfer.android.widget/crouton/1.8.5/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b81c788c5f175f94ddaac2f65e5d1726371e0963">
+        <dex dex="/media/56F0B1E2605EC16D/MobileProjects CS NEW/BetCade/20 April/BetCade/app/build/intermediates/pre-dexed/debug/classes-db355ae83582dc8abe7ba700a7cc2233400ed86c.jar" />
+    </item>
+    <item
+        jar="/media/56F0B1E2605EC16D/MobileProjects CS NEW/BetCade/20 April/BetCade/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/media/56F0B1E2605EC16D/MobileProjects CS NEW/BetCade/20 April/BetCade/app/build/intermediates/pre-dexed/debug/classes-31f57ec256df2838efe557075c704ed55eeb2685.jar" />
+    </item>
+    <item
+        jar="/home/mobile/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/media/56F0B1E2605EC16D/MobileProjects CS NEW/BetCade/20 April/BetCade/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0-f7082c99ee30c69fb3066cd06391590e39e2b1eb.jar" />
+    </item>
+    <item
+        jar="/home/mobile/Android sdk/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/media/56F0B1E2605EC16D/MobileProjects CS NEW/BetCade/20 April/BetCade/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-31c6f180b0c459a0fc0e7ec972949c09e4c3dc42.jar" />
+    </item>
+    <item
+        jar="/media/56F0B1E2605EC16D/MobileProjects CS NEW/BetCade/20 April/BetCade/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/media/56F0B1E2605EC16D/MobileProjects CS NEW/BetCade/20 April/BetCade/app/build/intermediates/pre-dexed/debug/classes-f7356f3e33dd7868a69e74b4499735ce38626c3f.jar" />
+    </item>
+    <item
+        jar="/media/56F0B1E2605EC16D/MobileProjects CS NEW/BetCade/20 April/BetCade/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/media/56F0B1E2605EC16D/MobileProjects CS NEW/BetCade/20 April/BetCade/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-4339d024b95423662946127cb2e5599e6346a33b.jar" />
+    </item>
+    <item
+        jar="/home/mobile/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/media/56F0B1E2605EC16D/MobileProjects CS NEW/BetCade/20 April/BetCade/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-77a50d2e0cfbb01290fc819f67833598151aceeb.jar" />
+    </item>
+    <item
+        jar="/home/mobile/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/media/56F0B1E2605EC16D/MobileProjects CS NEW/BetCade/20 April/BetCade/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT-793c1a1bdbaa9527e7b757a74ded6089fc6306f3.jar" />
+    </item>
+
+</items>

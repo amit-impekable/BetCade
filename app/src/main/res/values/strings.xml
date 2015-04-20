@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BetCade</string>
+
+    <!-- Tabs -->
+    <string name="tab_home">Home</string>
+
+    <!-- Primary Categories -->
+    <string name="cat_casino">Casino</string>
+    <string name="cat_casual">Casual</string>
+    <string name="cat_sports">Sports</string>
+    <string name="cat_horseracing">Horseracing</string>
+    <string name="cat_lottery">Lottery</string>
+    <string name="cat_slots">Slots</string>
+    <string name="cat_roulette">Roulette</string>
+    <string name="cat_cards">Cards</string>
+    <string name="cat_dice">Dice</string>
+    <string name="cat_privacy">Privacy Policy</string>
+    <string name="cat_eula">User Iicense</string>
+
+    <string-array name="tab_names">
+        <item>@string/tab_home</item>
+        <item>@string/cat_casino</item>
+        <item>@string/cat_casual</item>
+        <item>@string/cat_sports</item>
+        <item>@string/cat_horseracing</item>
+        <item>@string/cat_lottery</item>
+        <item>@string/cat_slots</item>
+        <item>@string/cat_roulette</item>
+        <item>@string/cat_cards</item>
+        <item>@string/cat_dice</item>
+        <item>@string/cat_privacy</item>
+        <item>@string/cat_eula</item>
+
+    </string-array>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_market">BetCade</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_onboard">Login/Register</string>
+    <string name="title_search">Search</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_web_content">WebContentActivity</string>
+
+</resources>
