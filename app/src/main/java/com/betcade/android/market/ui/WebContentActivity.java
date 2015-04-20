@@ -33,7 +33,7 @@ public class WebContentActivity extends ActionBarActivity {
     this.url=getIntent().getStringExtra("webUrl");
 
     }
-
+ 
     private void loadActionBar()
     {
         ActionBar actionBar = getSupportActionBar();
