@@ -28,7 +28,7 @@ public class WebContentActivity extends ActionBarActivity {
 
     private void getExtras()
     {
-
+        // Get values from intent
     this.title=getIntent().getStringExtra("title");
     this.url=getIntent().getStringExtra("webUrl");
 
